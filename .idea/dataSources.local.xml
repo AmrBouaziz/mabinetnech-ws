@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - mabinetnetch@localhost" uuid="e88940fb-75b7-40a4-8711-deb208906359">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>mabinetnetch.*</schema-pattern>
+      <default-schemas>mabinetnetch.*</default-schemas>
+    </data-source>
+  </component>
+</project>
